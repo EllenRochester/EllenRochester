@@ -6,6 +6,6 @@
 - <b>Cobblestone Learning Center Analytics Project</b>
   - [Code and report](https://github.com/EllenRochester/LearningCenterAnalytics)
 - <b>Text Analytics for Predicting Doctor Ratings Project</b>
-  - [Code](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Code](https://github.com/EllenRochester/TextAnalytics)
 
 
