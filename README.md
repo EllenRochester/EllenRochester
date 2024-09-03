@@ -18,7 +18,7 @@ Below are two projects showcasing my work. Please feel free to explore them!
   - [Python Code](https://github.com/EllenRochester/TextAnalytics)
 - <b>Customer Behavior Analysis with SQL and Tableau</b>
   - [SQL Query](https://github.com/EllenRochester/Customer-Behavior-Analysis)
-- <b>Tableau Visualization Portfolio
+- <b>Tableau Visualization Portfolio</b>
   - [Dashboard](https://us-east-1.online.tableau.com/#/site/zwang206f1715f4417/projects/596892)
 
 
