@@ -16,5 +16,7 @@ Below are two projects showcasing my work. Please feel free to explore them!
   - [Code and report](https://github.com/EllenRochester/LearningCenterAnalytics)
 - <b>Text Analytics for Predicting Doctor Ratings Project</b>
   - [Code](https://github.com/EllenRochester/TextAnalytics)
+- <b>Customer Behavior Analysis with SQL and Tableau</b>
+  - [Dashboard](https://github.com/EllenRochester/Customer-Behavior-Analysis)
 
 
