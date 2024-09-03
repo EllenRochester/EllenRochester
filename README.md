@@ -8,7 +8,7 @@ I am deeply invested in data-focused roles, and proficient in tools like Tableau
 My interest in machine learning drives me to explore various models such as RNN, Transformers, and LLMs to enhance my analytical capabilities.
 <br />
 <br />
-Below are two projects showcasing my work. Please feel free to explore them!
+Below are some projects showcasing my work. Please feel free to explore them!
 
 <h2>Data Analytics Projects</h2>
 
