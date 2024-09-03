@@ -19,6 +19,6 @@ Below are some projects showcasing my work. Please feel free to explore them!
 - <b>Customer Behavior Analysis with SQL and Tableau</b>
   - [SQL Query](https://github.com/EllenRochester/Customer-Behavior-Analysis)
 - <b>Tableau Visualization Portfolio</b>
-  - [Dashboard](https://us-east-1.online.tableau.com/#/site/zwang206f1715f4417/projects/596892)
+  - [Dashboard](https://us-east-1.online.tableau.com/#/site/zwang206f1715f4417/projects/596993?:origin=card_share_link)
 
 
