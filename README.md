@@ -13,10 +13,12 @@ Below are two projects showcasing my work. Please feel free to explore them!
 <h2>Data Analytics Projects</h2>
 
 - <b>Cobblestone Learning Center Analytics Project</b>
-  - [Code and report](https://github.com/EllenRochester/LearningCenterAnalytics)
+  - [R Code and report](https://github.com/EllenRochester/LearningCenterAnalytics)
 - <b>Text Analytics for Predicting Doctor Ratings Project</b>
-  - [Code](https://github.com/EllenRochester/TextAnalytics)
+  - [Python Code](https://github.com/EllenRochester/TextAnalytics)
 - <b>Customer Behavior Analysis with SQL and Tableau</b>
-  - [Dashboard](https://github.com/EllenRochester/Customer-Behavior-Analysis)
+  - [SQL Query](https://github.com/EllenRochester/Customer-Behavior-Analysis)
+- <b>Tableau Visualization Portfolio
+  - [Dashboard](https://us-east-1.online.tableau.com/#/site/zwang206f1715f4417/projects/596892)
 
 
